@@ -1,3 +1,8 @@
+
+![jenga0](https://github.com/user-attachments/assets/21d5fc59-2c9c-4dfc-b1f4-1ef2202feee1)
+
+![jenga1](https://github.com/user-attachments/assets/215a413d-7b8b-458d-b1f4-aa1014c8f6cd)
+
 # CIS 5660 HW04 Procedural Buildings
 
 ## Project Overview
