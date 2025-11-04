@@ -3,14 +3,14 @@
 
 
 ### My Renders
-![Render2](images/render2.png)
-![Render0](images/render0.png)
-![Render3](images/render3.png)
-![Render4](images/render4.png)
-	
+<p align="center">
+  <img src="images/render2.png" width="300" style="margin:4px;">
+  <img src="images/render3,5.png" width="300" style="margin:4px;">
+  <img src="images/render4.png" width="800" style="margin:4px;">
+</p>
 
-I was inspired by 56 Leonard Street, also known as the Jenga Building, an 821-foot skyscraper in New York City.
 
+I was inspired by **56 Leonard Street**, also known as the Jenga Building — an 821-foot skyscraper in New York City.
 
 <img src="https://github.com/user-attachments/assets/21d5fc59-2c9c-4dfc-b1f4-1ef2202feee1" height="200">
 <img src="https://github.com/user-attachments/assets/215a413d-7b8b-458d-b1f4-aa1014c8f6cd" height="200">
